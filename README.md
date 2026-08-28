@@ -62,7 +62,6 @@ Program to find the LU Decomposition of a matrix.
 
 
 ## Output:
-![lu decomposition]()
 
 <img width="1182" height="438" alt="image" src="https://github.com/user-attachments/assets/7225e2c1-e6d8-4439-a2ea-44245065ccb8" />
 
